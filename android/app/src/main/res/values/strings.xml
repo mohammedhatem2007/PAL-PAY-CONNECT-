@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PAL PAY CONNECT</string>
+    <string name="title_activity_main">PAL PAY CONNECT</string>
+    <string name="package_name">outcom.palpay.ussd</string>
+    <string name="custom_url_scheme">outcom.palpay.ussd</string>
+</resources>
